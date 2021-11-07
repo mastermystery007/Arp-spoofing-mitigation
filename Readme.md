@@ -1,4 +1,4 @@
-# ARP Flood and Sppof Detection 
+# ARP Flood and Spoof Detection 
 
 **Executing Steps**
 
