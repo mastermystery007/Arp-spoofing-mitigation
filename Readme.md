@@ -3,7 +3,7 @@
 **Executing Steps**
 
 1. Run the Controller using the following coammand: 
-    **ryu-manager [filepath]/Arp_mitigate_controller.py**
+    **ryu-manager [filepath]/Mitigate_controller.py**
 
 2. Create the mininet topology using the following coammand:
     **sudo mn --topo single,4 --mac --controller=remote --switch ovsk,protocols=OpenFlow13**
